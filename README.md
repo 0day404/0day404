@@ -1,7 +1,7 @@
 -  Hi, I’m @KayCHENvip
 -  I’m interested in  Hacker technology
-- 我正在学习C language
-- 如何联系我 Twitter @ KayChenvip
+- I am studyingC language
+- Contact information: Twitter @ KayChenvip
 - I am a college student who is studying. I like literature, sports, anime and 3A games
 
 <!---
