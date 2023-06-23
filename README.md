@@ -6,4 +6,4 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&hide=issues&" />
 </a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=radical)
