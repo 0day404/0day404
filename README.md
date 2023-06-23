@@ -13,3 +13,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=donut)](https://github.com/KayCHENvip/github-readme-stats)
