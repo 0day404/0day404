@@ -1,4 +1,4 @@
--  Hi, I’m @KayCHENvip
+如果你想了解我，接着看下去
 -  I’m interested in  Hacker technology
 - I am studying  Python language
 - Contact information: Twitter @ KayChenvip
