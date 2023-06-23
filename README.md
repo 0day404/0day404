@@ -4,7 +4,11 @@
 - Contact information: Twitter @ KayChenvip
 - I am from a small place in Hubei, but I am studying in Wuhan.
 - I like literature, sports, anime and 3A games
-- ![微信图片_20230603181051](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/2a657183-182b-4633-9cdc-f16b68a088b6)
+- 这是一些漂亮的图片，我喜欢的
+![QQ图片20230620190139](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/47d80413-b611-4219-9f9d-2056f3afba9d)![微信图片_20230603181058](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/a5cf8f72-3076-408f-931b-434321c5a368)<img width="1280" alt="屏幕截图 2023-04-15 010102" src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/df54343d-e6a2-4acb-9e86-cb999aa089de">
+
+
+
 
 
 <!---
