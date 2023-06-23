@@ -2,6 +2,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=github-readme-stats)](https://github.com/KayCHENvip/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
 
