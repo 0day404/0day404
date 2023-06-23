@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=github-readme-stats)](https://github.com/KayCHENvip/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=web-study)](https://github.com/KayCHENvip/web-study)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact)](https://github.com/KayCHENvip/github-readme-stats)
 
