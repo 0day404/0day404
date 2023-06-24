@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=synthwave)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip)](https://wakatime.com/@KayCHENvip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip\&layout=compact)](https://wakatime.com/@KayCHENvip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
