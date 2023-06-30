@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Gluttton</h1>
 <h2 align="center">无论什么苦恼都可以跟我倾述的说，不能为你打伞但是可以陪你淋雨的说 </h2>
 <h3 align="center">大一新生菜鸡的说，学习中但是想成为大佬的说，喜欢萌宠，喜欢宝可梦的说，超级喜欢谢米的口癖的说</h3>
-<h3 align="center">
+<h4 align="center">
 - 这是我的QQ3080258523的说，需要帮助可以联系我的说。
 - 欢迎来交朋友的说，一起进步的说。
 - 受过训练无论多离谱的事都能陪你聊的说。
-</h3>
+</h4>
 
 <div>
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/67baa91a-0302-4246-85ae-a3955790e2cf" alt="Image 1" style="width: 225px; height: 225px;">
