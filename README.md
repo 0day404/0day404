@@ -4,7 +4,8 @@
 
 
 
-![IMG_20230630_215336_550x415](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/fb37d1d9-02b7-4015-8477-2ad88c5cd81e)
+![IMG_20230630_215336_550x415_99x75](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/9387d74f-1261-4017-875f-06536307b90a)
+
 
 
 
