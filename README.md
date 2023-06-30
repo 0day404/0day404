@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi  I'm Gluttton (◍•ᴗ•◍)</h1>
 <h2 align="center">无论什么苦恼都可以跟我倾述的说，不能为你打伞但是可以陪你淋雨的说 No matter what troubles you have, you can talk to me. I can’t hold an umbrella for you, but I can accompany you in the rain.</h2>
-<h3 align="center">大一新生菜鸡的说，学习中但是想成为大佬的说，喜欢萌宠，喜欢宝可梦的说，超级喜欢谢米的口癖的说People who are new to the university say, people who are learning network security technology but become masters say, people who like cute pets say, people who like Pokémon say, and people who really like Shaymi mantra say</h3>
+<h3 align="center">大一新生菜鸡的说，学习中但是想成为大佬的说，喜欢萌宠，喜欢宝可梦的说，超级喜欢谢米的口癖的说Those who are new to university, those who are learning network security technology but become masters, those who like cute pets, those who like Pokémon, and those who really like Xie Mi’s speaking habits</h3>
 <h4 align="center">
-这是我的QQ3080258523的说，需要帮助可以联系我的说。This is what I said on QQ3080258523, if you need help, you can contact me.  
+这是我的QQ 3080258523的说，需要帮助可以联系我的说。This is what I said on QQ3080258523, if you need help, you can contact me.  
   
 欢迎来交朋友的说，一起进步的说Welcome to make friends and make progress together.
 
