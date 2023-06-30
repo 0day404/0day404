@@ -4,7 +4,7 @@
 
 
 
-![1688133099901_125x81](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/1939a90a-4320-4bd4-9da3-ce07656522ff)
+![1688133099901_100x71](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/1939a90a-4320-4bd4-9da3-ce07656522ff)
 
 
 
