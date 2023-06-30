@@ -12,9 +12,11 @@
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/b423b11f-a985-456f-a2ec-62680de5c407" alt="Image 4" style="width: 225px; height: 225px;">
 </div>
 
-
-
-
+<div>
+  <span style="font-size: 18px;">大一新生菜鸡的说</span>
+  <span style="font-size: 16px;">学习中但是想成为大佬的说</span>
+  <span style="font-size: 14px;">喜欢萌宠喜欢宝可梦的说</span>
+</div>
 
 
 
