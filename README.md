@@ -7,6 +7,9 @@
 - 欢迎来交朋友的说，一起进步的说。
 - 受过训练无论多离谱的事都能陪你聊的说。
 </h4>
+- 这是我的QQ3080258523的说，需要帮助可以联系我的说。
+- 欢迎来交朋友的说，一起进步的说。
+- 受过训练无论多离谱的事都能陪你聊的说。
 
 <div>
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/67baa91a-0302-4246-85ae-a3955790e2cf" alt="Image 1" style="width: 225px; height: 225px;">
