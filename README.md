@@ -1,8 +1,26 @@
 <span style="font-size: 22px;">无论什么苦恼都可以跟我倾述的说，不能为你打伞但是可以陪你淋雨的说  QQ 3080258523</span>
 
-#
+
 
 <font size="6">大一新生菜鸡的说，学习中但是想成为大佬的说，喜欢萌宠喜欢宝可梦的说</font>
+<span class="font-large">大一新生菜鸡的说</span>
+<span class="font-medium">学习中但是想成为大佬的说</span>
+<span class="font-small">喜欢萌宠喜欢宝可梦的说</span>
+
+<style>
+    .font-large {
+        font-size: 18px;
+    }
+    
+    .font-medium {
+        font-size: 16px;
+    }
+    
+    .font-small {
+        font-size: 14px;
+    }
+</style>
+
 
 
 
