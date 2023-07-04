@@ -7,7 +7,7 @@
   
 欢迎来交朋友，一起进步的说<!-- Welcome to make friends and make progress together.-->
 
-受过训练无论多离谱的事都能陪你聊。<!的说-- I have been trained to talk with you no matter how outrageous things are. -->
+受过训练无论多离谱的事都能陪你聊的说。<!-- I have been trained to talk with you no matter how outrageous things are. -->
 
 </h4>
 
