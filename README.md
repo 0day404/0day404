@@ -17,26 +17,7 @@
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c9a38769-4555-49c2-a89a-08add65d4401" alt="Image 2" style="width: 200px; height: 200px;">
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/35be0c28-f447-47a4-9a2f-1ecd4239e191" alt="Image 3" style="width: 200px; height: 200px;">
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/b423b11f-a985-456f-a2ec-62680de5c407" alt="Image 4" style="width: 200px; height: 200px;">
-</div>
-
-
-
-
-
-
-
-
-
-<p align="center">
-    <a href="https://github.com/KayCHENvip/penetration-suite-toolkit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=penetration-suite-toolkit" alt="Readme Card">
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs">
-</p>
-
+</div>   
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats">
 </p>
@@ -52,4 +33,13 @@
     <a href="https://wakatime.com/@KayCHENvip">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip" alt="GLutton's wakatime stats">
     </a>
+</p>
+<p align="center">
+    <a href="https://github.com/KayCHENvip/penetration-suite-toolkit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=penetration-suite-toolkit" alt="Readme Card">
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs">
 </p>
