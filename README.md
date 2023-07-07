@@ -44,7 +44,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/KayCHENvip/Duplicate-File-Cleaner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&Duplicate-File-Cleaner" alt="Readme Card">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=Duplicate-File-Cleaner" alt="Readme Card">
     </a>
 </p>
 
