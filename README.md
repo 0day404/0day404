@@ -28,8 +28,8 @@
 
 
 <p align="center">
-    <a href="https://github.com/KayCHENvip/vulnerability-poc">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=vulnerability-poc" alt="Readme Card">
+    <a href="https://github.com/KayCHENvip/penetration-suite-toolkit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=penetration-suite-toolkit" alt="Readme Card">
     </a>
 </p>
 
@@ -41,16 +41,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats">
 </p>
 
+<!-- 
 <p align="center">
     <a href="https://wakatime.com/@KayCHENvip">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip&layout=compact" alt="Harlok's wakatime stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip&layout=compact" alt="GLutton's wakatime stats">
     </a>
 </p>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+-->
+<p align="center">
+    <a href="https://wakatime.com/@KayCHENvip">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip" alt="GLutton's wakatime stats">
+    </a>
+</p>
