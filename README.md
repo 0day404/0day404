@@ -35,11 +35,16 @@
     </a>
 </p>
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs">
+</p>
+<p align="center">
     <a href="https://github.com/KayCHENvip/penetration-suite-toolkit">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=penetration-suite-toolkit" alt="Readme Card">
     </a>
 </p>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs">
+    <a href="https://github.com/KayCHENvip/Duplicate-File-Cleaner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&Duplicate-File-Cleaner" alt="Readme Card">
+    </a>
 </p>
+
