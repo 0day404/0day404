@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi  I'm Gluttton (◍•ᴗ•◍)</h1>
-<h2 align="center">无论什么苦恼都可以跟我倾述的说，不能为你打伞但是可以陪你淋雨的说 .</h2><!--No matter what troubles you have, you can talk to me. I can’t hold an umbrella for you, but I can accompany you in the rain -->
-<h3 align="center">大一新生菜鸡的说，学习中但是梦想成为大佬，喜欢萌宠，喜欢宝可梦，超级喜欢谢米的口癖的说</h3><!-- Those who are new to university, those who are learning network security technology but become masters, those who like cute pets, those who like Pokémon, and those who really like Xie Mi’s speaking habits -->
+<h2 align="center">热爱生活是快乐的秘诀，热爱学习是进步的秘诀</h2><!-- Love of life is the secret of happiness, love of learning is the secret of progress-->
+<h3 align="center">还是个学习中的大学生，喜欢萌宠，旅游，也喜欢运动和游戏</h3><!-- I am still a college student studying, I like cute pets, traveling, sports and games -->
 <h4 align="center">
-这是我的QQ 3080258523，需要帮助可以联系我。 <!-- This is what I said on QQ3080258523, if you need help, you can contact me.  -->
+可以推特或者领英联系我，qq也放在这3080258523<!--  You can contact me on Twitter or LinkedIn, qq is also here 3080258523 -->
   
-欢迎来交朋友，一起进步的说<!-- Welcome to make friends and make progress together.-->
+在武汉上大学，欢迎来交朋友，一起进步的说<!-- Going to university in Wuhan, welcome to make friends and make progress together-->
 
-受过训练无论多离谱的事都能陪你聊的说。<!-- I have been trained to talk with you no matter how outrageous things are. -->
+分享是高级的情感，独占是自私的浪漫<!-- Sharing is a high-level emotion, exclusiveness is a selfish romance -->
 
 </h4>
 
