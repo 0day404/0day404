@@ -14,19 +14,16 @@
 
 
 
-
 <div>
-  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/045f7802-46b2-44c5-8731-0ed154ef953d" alt="Image 1" style="width: 200px; height: 200px;">
-  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c9a38769-4555-49c2-a89a-08add65d4401" alt="Image 2" style="width: 200px; height: 200px;">
-  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/d92ce519-778f-4b1c-9960-1fbdcfce9269" alt="Image 3" style="width: 200px; height: 200px;">
-  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/fde77771-f392-445f-a9d6-2cf74c513998" alt="Image 4" style="width: 200px; height: 200px;">
-  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/becbc556-0fec-4948-9cd1-6258e0aed477" alt="Image 5" style="width: 400px; height: 200px;">
+  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/045f7802-46b2-44c5-8731-0ed154ef953d" alt="Image 1" style="width: 160px; height: 160px;">
+  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c9a38769-4555-49c2-a89a-08add65d4401" alt="Image 2" style="width: 160px; height: 160px;">
+  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/322a384e-4720-4e3f-a1e2-3098ea2616d7" alt="Image 3" style="width: 160px; height: 160px;"> 
+  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/fde77771-f392-445f-a9d6-2cf74c513998" alt="Image 4" style="width: 160px; height: 160px;">
+  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c8d726d2-41bf-4f87-bcf4-6a87c5e79720" alt="Image 5" style="width: 160px; height: 160px;">
+  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/d92ce519-778f-4b1c-9960-1fbdcfce9269" alt="Image 5" style="width: 160px; height: 160px;">
 </div>   
 
 
-<p align="center">
- <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/becbc556-0fec-4948-9cd1-6258e0aed477" alt="Image 5" style="width: 400px; height: 200px;"> </p>
-  
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats">
 </p>
@@ -46,6 +43,14 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 </p>
+
+
+
+<p style="text-align: center;">
+ <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/becbc556-0fec-4948-9cd1-6258e0aed477" alt="Image 5" style="width: 500px; height: 300px;">
+ <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c7c3b5f2-9f4a-4014-8ec3-ca8d6ed66976" alt="Image 5" style="width: 500px; height: 300px;">
+</p>
+  
 <p align="center">
     <a href="https://github.com/KayCHENvip/penetration-suite-toolkit">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=penetration-suite-toolkit" alt="Readme Card">
@@ -56,4 +61,5 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayCHENvip&repo=Duplicate-File-Cleaner" alt="Readme Card">
     </a>
 </p>
+
 
