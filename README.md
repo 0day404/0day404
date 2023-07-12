@@ -47,8 +47,8 @@
 
 
 <p style="text-align: center;">
- <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/becbc556-0fec-4948-9cd1-6258e0aed477" alt="Image 5" style="width: 400px; height: 200px;">
- <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c7c3b5f2-9f4a-4014-8ec3-ca8d6ed66976" alt="Image 5" style="width: 400px; height: 200px;">
+ <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/becbc556-0fec-4948-9cd1-6258e0aed477" alt="Image 5" style="width: 420px; height: 210px;">
+ <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c7c3b5f2-9f4a-4014-8ec3-ca8d6ed66976" alt="Image 5" style="width: 420px; height: 210px;">
 </p>
   
 <p align="center">
