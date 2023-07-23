@@ -38,7 +38,7 @@
 <h1 align="center"> Wakatime 分析图
 <p align="center">
     <a href="https://wakatime.com/@KayCHENvip">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip" alt="GLutton's wakatime stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip" alt="GLutton's wakatime stars">
     </a>
 </p>
 <h1 align="center"> 常用语言分布图
