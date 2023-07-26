@@ -15,8 +15,8 @@
 
 ### Github 状态图
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=synthwave)]  -->
-  ![](https://github-readme-stats.vercel.app/api?username=KayCHENvip\&show_icons=true\&theme=radical)] 
+<!-- ![](https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=synthwave)  -->
+  ![](https://github-readme-stats.vercel.app/api?username=KayCHENvip\&show_icons=true\&theme=radical) 
 
 <!-- 
 <p align="center">
