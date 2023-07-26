@@ -15,8 +15,8 @@
 
 ### Github 状态图
 
-  ![](https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=synthwave)]
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=synthwave)]  -->
+  ![](https://github-readme-stats.vercel.app/api?username=KayCHENvip\&show_icons=true\&theme=radical)] 
 
 <!-- 
 <p align="center">
@@ -28,7 +28,7 @@
 ### Wakatime 分析图
 <p align="">
     <a href="https://wakatime.com/@KayCHENvip">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip" alt="GLutton's wakatime stars">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip&layout=compact" alt="GLutton's wakatime stars">
     </a>
 </p>
 
