@@ -8,9 +8,9 @@
    - 在武汉上大学，欢迎来交朋友，一起进步的说，有空可以约出去喝酒旅游什么的
 ### 个人宗旨 
    - 热爱生活是快乐的秘诀，热爱学习是进步的秘诀。分享是高级的情感，独占是自私的浪漫
-   - 喜欢动漫，小说，也喜欢运动和旅游，爱好广泛，成分复杂
-   - 永远喜欢小怪兽，永远喜欢绘梨衣
+   - 喜欢动漫，小说，也喜欢运动和旅游，是个吃货腻，爱好广泛，成分复杂的嘞
    - 人生小目标：儿女双全（养一群小猫小狗)，非常期待像遇见宝可梦那样与它们建立羁绊
+   - 永远喜欢小怪兽，永远喜欢绘梨衣
 
 
 ### Github 状态图
@@ -38,7 +38,7 @@
 </p>
 
 ### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KayCHENvip&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KayCHENvip&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/045f7802-46b2-44c5-8731-0ed154ef953d" alt="Image 1" style="width: 160px; height: 160px;">
