@@ -3,7 +3,7 @@
 ## Hi，这里是Gluttton (◍•ᴗ•◍)<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 一名走在程序员路上但是立志成为白帽的二次元
 ### 自我介绍
-   -  Hello,欢迎来到我的Github，你可以称呼我KayChen
+   -  Hello,欢迎来到我的Github主页，你可以称呼我KayChen
    - 普通软件工程本科生，但是对网络安全兴趣更浓，拜师小迪（不是gay）
    - 在武汉上大学，欢迎来交朋友，一起进步的说，有空可以约出去喝酒旅游什么的
 ### 兴趣爱好 
