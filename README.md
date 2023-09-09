@@ -38,10 +38,6 @@
     </a>
 </p>
 
-### 常用语言分布图
-<p align="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
-</p>
 
 ### Github 贡献图
 [![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KayCHENvip&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -54,11 +50,6 @@
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c8d726d2-41bf-4f87-bcf4-6a87c5e79720" alt="Image 5" style="width: 160px; height: 160px;">
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/d92ce519-778f-4b1c-9960-1fbdcfce9269" alt="Image 5" style="width: 160px; height: 160px;">
 </div>   
-
-
-
-
-  
 
 <p style="text-align: center;">
  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/becbc556-0fec-4948-9cd1-6258e0aed477" alt="Image 5" style="width: 420px; height: 210px;">
