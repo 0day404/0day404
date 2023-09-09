@@ -14,6 +14,10 @@
    - 永远喜欢小怪兽，永远喜欢绘梨衣
 -->
 
+### 常用语言分布图
+<p align="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
+</p>
 
 ### Github 状态图
 
