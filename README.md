@@ -83,20 +83,20 @@
 
 
 
-### 浏览量
+### 浏览量 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 本部分的访问者统计从 2023 年 8 月 12 日开始
 
 ![](https://count.getloli.com/get/@:KayCHENvip?theme=moebooru-h)
 </br>
 
 
-### 常用语言分布图
+### 常用语言分布图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 
 </p>
 
-### Github 状态图
+### Github 状态图<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=synthwave)  -->
   ![](https://github-readme-stats.vercel.app/api?username=KayCHENvip\&show_icons=true\&theme=radical) 
@@ -108,7 +108,7 @@
     </a>
 </p>
 -->
-### Wakatime 分析图
+### Wakatime 分析图<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 <p align="">
     <a href="https://wakatime.com/@KayCHENvip">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KayCHENvip&layout=compact" alt="GLutton's wakatime stars">
@@ -116,7 +116,7 @@
 </p>
 
 
-### Github 贡献图
+### Github 贡献图<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 [![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KayCHENvip&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 <div>
@@ -134,11 +134,3 @@
 </p>
 -->
 
-
-
-
-### 浏览量
-本部分的访问者统计从 2023 年 8 月 12 日开始
-
-![](https://count.getloli.com/get/@:KayCHENvip?theme=moebooru-h)
-</br>
