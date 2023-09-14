@@ -17,6 +17,11 @@
    - 永远喜欢小怪兽，永远喜欢绘梨衣
 -->
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/johndoe/my-project/releases/tag/1.0.0)
+[![Language: Python](https://img.shields.io/badge/language-Python-yellow.svg)](https://www.python.org/)
+[![CI Status](https://img.shields.io/travis/johndoe/my-project/master.svg)](https://travis-ci.org/johndoe/my-project)
+[![Coverage Status](https://img.shields.io/coveralls/johndoe/my-project/master.svg)](https://coveralls.io/github/johndoe/my-project?branch=master)
 
 <div align="center">
   <br>
@@ -26,7 +31,9 @@
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;"/>
   </a>
-</div> 
+
+
+
    
 
 <div style="display: inline_block">
