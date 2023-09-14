@@ -3,8 +3,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oi,+我是+谈笑画中人;I'm+from+Wuhan+,Hunei+,China;I'm+a+Software+Engineering+Students;I+am+interested+in+network+security)
 
+
+
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
 
 <!--
@@ -14,7 +16,6 @@
    -  Hello,欢迎来到我的Github主页，你可以称呼我KayChen
    - 普通软件工程本科生，但是对网络安全兴趣更浓
    - 在武汉上大学，欢迎来交朋友，一起进步的说
-
 ### 兴趣爱好 
    - 热爱生活是快乐的秘诀，热爱学习是进步的秘诀。分享或许是高级的情感，但独占亦是自私的浪漫
    - 喜欢动漫，小说，也喜欢运动和旅游（在家此技能被封印），是个吃货腻（在家此技能加强），爱好是广泛的，成分是复杂的
@@ -134,3 +135,6 @@
 </p>
 -->
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=120&section=footer"/>
+</a>
