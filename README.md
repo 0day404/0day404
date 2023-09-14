@@ -1,12 +1,15 @@
-<img align="right" src="https://count.getloli.com/get/@:KayCHENvip?theme=moebooru-h">
+<!--   my-header-img -->
+![image](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/8cf655ed-05c9-429a-aaa7-18d9c88d58cc)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oi,+我是+谈笑画中人;I'm+from+Wuhan+,Hunei+,China;I'm+a+Software+Engineering+Students;I+am+interested+in+network+security)
+<!--
 ## Hi，这里是Gluttton (◍•ᴗ•◍)<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 一名走在程序员路上但是立志成为白帽的二次元
 ### 自我介绍
    -  Hello,欢迎来到我的Github主页，你可以称呼我KayChen
    - 普通软件工程本科生，但是对网络安全兴趣更浓
    - 在武汉上大学，欢迎来交朋友，一起进步的说
-<!--
+
 ### 兴趣爱好 
    - 热爱生活是快乐的秘诀，热爱学习是进步的秘诀。分享或许是高级的情感，但独占亦是自私的浪漫
    - 喜欢动漫，小说，也喜欢运动和旅游（在家此技能被封印），是个吃货腻（在家此技能加强），爱好是广泛的，成分是复杂的
@@ -14,9 +17,82 @@
    - 永远喜欢小怪兽，永远喜欢绘梨衣
 -->
 
+
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=radical"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;"/>
+  </a>
+</div> 
+   
+
+<div style="display: inline_block">
+  <p align="center">
+    <a href="#">
+      <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Tailwind" height="30" width="40" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Next.js" height="30" width="40" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
+    </a>
+    <br><br>
+    <a href="#">
+      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do PHP" height="30" width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    </a>
+  </p>
+</div>
+
 ### 常用语言分布图
 <p align="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
+    <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
+
 </p>
 
 ### Github 状态图
@@ -56,3 +132,4 @@
  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c7c3b5f2-9f4a-4014-8ec3-ca8d6ed66976" alt="Image 5" style="width: 420px; height: 210px;">
 </p>
 -->
+<img align="right" src="https://count.getloli.com/get/@:KayCHENvip?theme=moebooru-h">
