@@ -2,6 +2,11 @@
 ![image](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/8cf655ed-05c9-429a-aaa7-18d9c88d58cc)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oi,+我是+谈笑画中人;I'm+from+Wuhan+,Hunei+,China;I'm+a+Software+Engineering+Students;I+am+interested+in+network+security)
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=120&section=footer"/>
+</a>
+
 <!--
 ## Hi，这里是Gluttton (◍•ᴗ•◍)<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 一名走在程序员路上但是立志成为白帽的二次元
@@ -16,26 +21,6 @@
    - 毕业后第一个小目标：儿女双全（养一群小猫小狗)，喜欢宝可梦
    - 永远喜欢小怪兽，永远喜欢绘梨衣
 -->
-
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/johndoe/my-project/releases/tag/1.0.0)
-[![Language: Python](https://img.shields.io/badge/language-Python-yellow.svg)](https://www.python.org/)
-[![CI Status](https://img.shields.io/travis/johndoe/my-project/master.svg)](https://travis-ci.org/johndoe/my-project)
-[![Coverage Status](https://img.shields.io/coveralls/johndoe/my-project/master.svg)](https://coveralls.io/github/johndoe/my-project?branch=master)
-
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KayCHENvip&show_icons=true&theme=radical"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;"/>
-  </a>
-
-
-
-   
-
 <div style="display: inline_block">
   <p align="center">
     <a href="#">
@@ -93,12 +78,21 @@
     <a href="#">
       <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     </a>
+  
   </p>
-</div>
+
+
+
+### 浏览量
+本部分的访问者统计从 2023 年 8 月 12 日开始
+
+![](https://count.getloli.com/get/@:KayCHENvip?theme=moebooru-h)
+</br>
+
 
 ### 常用语言分布图
 <p align="">
-    <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayCHENvip&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 
 </p>
 
@@ -139,4 +133,12 @@
  <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/c7c3b5f2-9f4a-4014-8ec3-ca8d6ed66976" alt="Image 5" style="width: 420px; height: 210px;">
 </p>
 -->
-<img align="right" src="https://count.getloli.com/get/@:KayCHENvip?theme=moebooru-h">
+
+
+
+
+### 浏览量
+本部分的访问者统计从 2023 年 8 月 12 日开始
+
+![](https://count.getloli.com/get/@:KayCHENvip?theme=moebooru-h)
+</br>
