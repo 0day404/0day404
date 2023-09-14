@@ -82,7 +82,7 @@
    - 毕业后第一个小目标：儿女双全（养一群小猫小狗)，喜欢宝可梦
    - 永远喜欢小怪兽，永远喜欢绘梨衣
 -->
-
+<！--
 <div align="center">
   <br>
   <a href="#">
@@ -92,6 +92,7 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&langs_count=6&layout=compact&title_color=80c8f8&icon_color=80c8f8&text_color=80c8f8&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
 </div> 
+-->
 
 
 ### 浏览量 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
