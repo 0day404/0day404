@@ -158,5 +158,5 @@
 -->
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
 </a>
