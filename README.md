@@ -9,12 +9,12 @@
     <a href="#">
       <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
-    <a href="#">
+   <!-- <a href="#">
       <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     </a>
     <a href="#">
       <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    </a>
+    </a>-->
     <a href="#">
       <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     </a>
@@ -24,6 +24,7 @@
     <a href="#">
       <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
+    <!--
     <a href="#">
       <img align="center" alt="Logo do Tailwind" height="30" width="40" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     </a>
@@ -33,7 +34,15 @@
     <a href="#">
       <img align="center" alt="Logo do Next.js" height="30" width="40" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
     </a>
-    <br><br>
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    </a>
+    <a href="#">
+    -->
     <a href="#">
       <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
@@ -57,14 +66,11 @@
     </a>
     <a href="#">
       <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    </a>
+    
   
   </p>
 
-
+  <br><br>
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/>
 </a>
@@ -81,7 +87,7 @@
    - 喜欢动漫，小说，也喜欢运动和旅游（在家此技能被封印），是个吃货腻（在家此技能加强），爱好是广泛的，成分是复杂的
    - 毕业后第一个小目标：儿女双全（养一群小猫小狗)，喜欢宝可梦
    - 永远喜欢小怪兽，永远喜欢绘梨衣
--->
+<!--
 <!--
 <div align="center">
   <br>
