@@ -5,7 +5,7 @@
 
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/ccf33939-eb85-4e46-95c0-abf2e6ed88f7">
+    <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="./img/linkedin.png">
     </a>
   </p>
 </div>
