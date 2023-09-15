@@ -3,7 +3,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Oi+我是+谈笑画中人;I'm+from+Wuhan+,Hunei+,China;I'm+a+Software+Engineering+Students;I+am+interested+in+network+security)
 
-
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kaychenvip/"><img height="35" width="140" title="linkedin.com/in/jeffersonrpm" src="./img/linkedin.png">
+    </a>
+  </p>
+</div>
 <div style="display: inline_block">
   <p align="center">
     <a href="#">
