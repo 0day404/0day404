@@ -5,7 +5,7 @@
 
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="./img/linkedin.png">
+    <!-- <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="./img/linkedin.png">  -->
     </a>
   </p>
 </div>
