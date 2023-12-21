@@ -1,8 +1,8 @@
 <!--   my-header-img -->
 ![image](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/8cf655ed-05c9-429a-aaa7-18d9c88d58cc)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Oi+大家好+我是+谈笑画中人;I'm+from+Wuhan+,Hunei+,China;I'm+a+Software+Engineering+Students;I+am+interested+in+network+security)
-
+<!--![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Oi+大家好+我是+谈笑画中人;I'm+from+Wuhan+,Hunei+,China;I'm+a+Software+Engineering+Students;I+am+interested+in+network+security)-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Hello+我是+谈笑画中人+;欢迎来到我的GitHub主页+;希望你可以在这里找到感兴趣的东西+;此外，祝岁岁平安！！！+)
 <div> 
   <p align="center">
     <!-- <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="./img/linkedin.png">  -->
