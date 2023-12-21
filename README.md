@@ -2,7 +2,7 @@
 ![image](https://github.com/KayCHENvip/KayCHENvip/assets/128878325/8cf655ed-05c9-429a-aaa7-18d9c88d58cc)
 
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Oi+大家好+我是+谈笑画中人;I'm+from+Wuhan+,Hunei+,China;I'm+a+Software+Engineering+Students;I+am+interested+in+network+security)-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步一点+烦恼少一点;平安喜乐+家人安康;早日脱单+单着也行;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步+烦恼走开;平安喜乐+家人安康;纯爱万岁;)
 <div> 
   <p align="center">
     <!-- <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="./img/linkedin.png">  -->
@@ -71,10 +71,16 @@
     </a>
     <a href="#">
       <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-    
-  
-  </p>
+    </p>
 
+
+## 自我介绍
+   - 一名走在程序员路上但是立志成为白帽的失败二次元
+   - 普通软件工程本科生，喜欢网络安全
+   - 开发和渗透测试两把抓
+## 兴趣爱好 
+   - 音乐第一救赎，小说我的是第二世界
+   - 和朋友一起参加赋能战争、APEX大赛，当然，重点是朋友
   <br><br>
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/>
@@ -105,13 +111,6 @@
 </div> 
 -->
 
-### 一名走在程序员路上但是立志成为白帽的失败二次元
-## 自我介绍
-   - 普通软件工程本科生，喜欢网络安全
-   - 开发和渗透测试两把抓
-## 兴趣爱好 
-   - 音乐第一救赎，小说是第二世界
-   - 参加赋能战争、APEX大赛；交界地当翻滚之王
 
 
 ### 浏览量 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
