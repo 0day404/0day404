@@ -78,10 +78,13 @@
    - 一名走在程序员路上但是立志成为白帽的失败二次元
    - 普通软件工程本科生，喜欢网络安全
    - 开发和渗透测试两把抓
+<!-- 
 ## 兴趣爱好 
    - 音乐第一救赎，小说我的是第二世界
    - 和朋友一起参加赋能战争、APEX大赛，当然，重点是朋友
-  <br><br>
+
+-->  
+<br><br>
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/>
 </a>
