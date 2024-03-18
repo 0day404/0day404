@@ -30,8 +30,6 @@
     <a href="#">
       <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
-    -->
-    <!--
     <a href="#">
       <img align="center" alt="Logo do Tailwind" height="30" width="40" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     </a>
@@ -53,7 +51,7 @@
     <a href="#">
       <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
-   <!-- <a href="#">
+    <a href="#">
       <img align="center" alt="Logo do C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     </a>
     <a href="#">
@@ -74,7 +72,7 @@
     <a href="#">
       <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
     </p>
-
+    -->
 
 ## 自我介绍
    - 一名走在程序员路上但是立志成为白帽的失败二次元
