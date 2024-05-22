@@ -150,7 +150,7 @@
 
 
 ### Github 贡献图<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KayCHENvip&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0day404&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 <div>
   <img src="https://github.com/KayCHENvip/KayCHENvip/assets/128878325/045f7802-46b2-44c5-8731-0ed154ef953d" alt="Image 1" style="width: 160px; height: 160px;">
