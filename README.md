@@ -119,7 +119,7 @@
 ### 浏览量 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 本部分的访问者统计从 2023 年 8 月 12 日开始
 
-![](https://count.getloli.com/get/@:0day404?theme=moebooru-h)
+![](https://count.getloli.com/get/@:kaychenvip?theme=moebooru-h)
 </br>
 
 
