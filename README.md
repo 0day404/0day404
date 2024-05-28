@@ -112,7 +112,6 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&langs_count=6&layout=compact&title_color=80c8f8&icon_color=80c8f8&text_color=80c8f8&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
 </div> 
--->
 
 
 
@@ -121,6 +120,7 @@
 
 ![](https://count.getloli.com/get/@:kaychenvip?theme=moebooru-h)
 </br>
+-->
 
 
 ### 常用语言分布图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
