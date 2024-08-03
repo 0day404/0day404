@@ -93,6 +93,8 @@
 
 
 <h2>Wakatime 分析<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+
+<a href="https://wakatime.com/@69043ef2-1c3f-4cde-8623-a368de215d55"><img src="https://wakatime.com/badge/user/69043ef2-1c3f-4cde-8623-a368de215d55.svg" alt="Total time coded since Jun 24 2023" /></a>
 <p align="">
     <a href="https://wakatime.com/@0day404">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0day404&layout=compact" alt="GLutton's wakatime stars">
