@@ -1,6 +1,6 @@
 <img width=100% src="./img/header.png"/>
 
-<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Progress every day + trouble away;Peace and joy + family health;Happiness is important;"/>
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines="Progress every day + trouble away;Peace and joy + family health;Happiness is important;"/>
 
 <div> 
   <p align="center">
