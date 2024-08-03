@@ -3,7 +3,7 @@
 <h2 align="center">热爱生活是快乐的秘诀，热爱学习是进步的秘诀。分享是高级的情感，独占是自私的浪漫</h2><!-- Love of life is the secret of happiness, love of learning is the secret of progress，Sharing is a high-level emotion, exclusiveness is a selfish romance-->
 <h3 align="center">还是个学习中的大学生，喜欢萌宠，旅游，也喜欢运动和游戏，爱好广泛，成分复杂</h3><!-- I am still a college student studying, I like cute pets, traveling, sports and games -->
 <h4 align="center">
- 可以推特联系我，qq也放在这3080258523<!--  You can contact me on Twitter or LinkedIn, qq is also here 3080258523 -->
+<!--  You can contact me on Twitter or LinkedIn, qq is also here 3080258523 -->
   
  在武汉上大学，欢迎来交朋友，一起进步的说<!-- Going to university in Wuhan, welcome to make friends and make progress together-->
 
