@@ -1,12 +1,12 @@
-
 <img width=100% src="./img/header.png"/>
+
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Progress every day + trouble away;Peace and joy + family health;Happiness is important;"/>
+
 <div> 
   <p align="center">
-   <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="./img/linkedin.png">
-    </a>
+   <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="./img/linkedin.png"></a>
   </p>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </div>
 
 [简体中文](./README.md) | [English](./README_en.md) 
@@ -73,7 +73,7 @@ Visitor statistics for this section begin on July 30, 2024
 </br>
 
 
-  <h2> 常用语言分布图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+  <h2> Map of common language distribution <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day404&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 </p>
