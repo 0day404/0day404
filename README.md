@@ -45,10 +45,10 @@
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/php/php-original.svg" alt="" height="40"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/go/go-original.svg" alt="" height="40"/>
       <a href="https://git-scm.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/git/git-original.svg" alt="" height="40"/></a>
-        <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="30"/> </a> -->
+        <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40"/> </a> -->
       <a href="https://nodejs.org" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height=40"/> </a> 
       <a href="https://www.nginx.com" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a>
-      <!--   <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="" height="30"/> -->
+      <!--   <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="" height="40"/> -->
        <a href="https://www.mysql.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a> 
        <a href="https://www.mongodb.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> </a> 
        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="40"/> </a>
