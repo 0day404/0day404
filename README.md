@@ -18,10 +18,10 @@
 # 👋 About me<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 - Hello, this is Sage (◍-ᴗ-◍)!
 - An ordinary man. Forever harbouring the heart of an apprentice, but aspiring to greatness!
-- I love network security, specialize in web penetration testing, and know a little bit about development.
-- Loves network security, specializes in web penetration testing, knows a little bit about development. Believes in the six "hacker ethics", supports the "open source movement".
+- Loves network security, focusing on web penetration testing, with a slight understanding of development.
+- Believes in six "hacker ethics" and supports the "open source movement".
 - I love poems, I love infectious words, and I hope my code will be as beautiful as poems someday!
-- My favorite superhero is Spider-Man, "With great power, there must also come great responsibility." Favorite villain is The Joker, "You see, madness, as you know, is like gravity. All it takes is a little push!"
+- My favorite superhero is Spider-Man, "With great power, there must also come great responsibility." Favorite villain is The Joker, "You see, madness, as you know, is like gravity. All it takes is a little push!"They're all full of charm.
 
 <h2>🏆  Github Status Diagram <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
