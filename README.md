@@ -1,6 +1,8 @@
-<img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
-
-<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Progress+Every+Day;Worry+Away;Peace+And+Joy;Family+Health;Happiness+Is+Important;"/>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/>
+  <img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
+  <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Progress+Every+Day;Worry+Away;Peace+And+Joy;Family+Health;Happiness+Is+Important;"/>
+</a>
 
 <div> 
   <p align="center">
