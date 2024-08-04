@@ -9,7 +9,7 @@
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </div>
 
-[简体中文](./README.md) | [English](./README_en.md) 
+[English](./README.md) | [简体中文](./README_zh-CN.md) 
 
 # 👋 About me<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 - Hello, this is Sage! 
@@ -77,11 +77,6 @@ Visitor statistics for this section begin on July 30, 2024
 <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day404&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 </p>
-
-
-
-
-
 
 
 
