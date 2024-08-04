@@ -16,9 +16,14 @@
 [English](./README.md) | [简体中文](./README_zh-CN.md) 
 
 # 👋 About me<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- Hello, this is Sage!(◍•ᴗ•◍) 
-- General software engineering undergraduate with a penchant for cybersecurity.
-- Both development and penetration test.
+- Hi, I'm Sage (◍-ᴗ-◍)!
+- A commoner. I'm an ordinary guy, always an apprentice, but aspiring to greatness!
+- I love network security, specialize in web penetration testing, and know a little bit about development.
+- Loves network security, specializes in web penetration testing, knows a little bit about development. Believes in the six "hacker ethics", supports the "open source movement".
+- I love poems, I love infectious words, and I hope my code will be as beautiful as poems someday!
+- My favorite superhero is Spider-Man, "With great power, there must also come great responsibility." Favorite villain is The Joker, "You see, madness, as you know, is like gravity. All it takes is a little push!"
+
+Translated with DeepL.com (free version)
 
 <h2>🏆  Github Status Diagram <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
@@ -103,7 +108,7 @@ Visitor statistics for this section begin on July 30, 2024
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0day404&theme=merko&custom_title=Sage's%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/0day404)
 
 
-<h2>Wakatime Analysis<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2>Codetime Analysis<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
 <a href="https://wakatime.com/@69043ef2-1c3f-4cde-8623-a368de215d55"><img src="https://wakatime.com/badge/user/69043ef2-1c3f-4cde-8623-a368de215d55.svg" alt="Total time coded since Jun 24 2023" /></a>
 <p align="">
