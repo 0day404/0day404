@@ -1,10 +1,10 @@
-<img width=100% src="./img/header.png"/>
+<img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
 
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Progress+Every+Day;Worry+Away;Peace+And+Joy;Family+Health;Happiness+Is+Important;"/>
 
 <div> 
   <p align="center">
-   <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="./img/linkedin.png"></a>
+   <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/linkedin.svg">
   </p>
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </div>
@@ -12,21 +12,21 @@
 [简体中文](./README.md) | [English](./README_en.md) 
 
 # 👋 About me<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- Hello, this is Sage! 🏆
-- General software engineering undergraduate with a penchant for cybersecurity.📋 
-- Both development and penetration test.👊
+- Hello, this is Sage! 
+- General software engineering undergraduate with a penchant for cybersecurity.
+- Both development and penetration test.
 
-<h2>Github Status Diagram <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2>🏆  Github Status Diagram <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
 
 <!-- align="center" -->
 <h2>🧐Penetration test tool<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
 <p>
-	<a href="" target="_blank"> <img src="./img/kali-linux.svg" alt="kali-linux" height="40"/></a>
-	<a href="" target="_blank"> <img src="./img/Burp Suite Professional.svg" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="./img/Postman.svg" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="./img/wireshark.svg" alt="wireshark" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/kali-linux.svg" alt="kali-linux" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Burp%20Suite%20Professional.svg" alt="" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Postman.svg" alt="" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/wireshark.svg" alt="wireshark" height="40"/></a>
 </p>
 
 <h2>🔧 Language and tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
@@ -34,7 +34,7 @@
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" alt="" height="30"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/css3/css3-original.svg" alt="" height="30"/>
-      <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a>
+      <a href="https://www.nginx.com" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="30"/> </a>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="" height="30"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/go/go-original.svg" alt="" height="30"/>
@@ -55,17 +55,17 @@
 	<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/>  </a>
 	<a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/>  </a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" alt="" height="40"/>  </a>
-	<a href="" target="_blank"> <img src="./img/ubuntu.svg" alt="" height="40"/>  </a>
+	<a href="" target="_blank"> <img src=".https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/ubuntu.svg" alt="" height="40"/>  </a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/centos/centos-original.svg" alt="" height="40"/><a href="" target="_blank"> <img src="" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="./img/Docker.svg" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="./img/mobaxterm.svg" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="./img/VMware.svg" alt="" height="50"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Docker.svg" alt="" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/mobaxterm.svg" alt="" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/VMware.svg" alt="" height="50"/></a>
 	<a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" height="40"/> </a>
 	<a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/>  </a>
 	<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/>  </a>
-        </p>
+ </p>
 	
-<h2>  Page View <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<h2> 📋  Page View <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
   
 Visitor statistics for this section begin on July 30, 2024
 
@@ -73,7 +73,7 @@ Visitor statistics for this section begin on July 30, 2024
 </br>
 
 
-  <h2> Map of common language distribution <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+  <h2> 👊 Map of common language distribution <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day404&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 </p>
