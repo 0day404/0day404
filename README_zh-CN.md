@@ -16,16 +16,19 @@
 [English](./README.md) | [简体中文](./README_zh-CN.md) 
 
 # 👋 关于我<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- 你好, 我是 Sage!(◍•ᴗ•◍)
-- 普通软件工程本科生，喜欢网络安全。
-- 开发和渗透测试两把抓。
+- 你好,我是 Sage (◍•ᴗ•◍) ！
+- 一个普通人。永远怀学徒之心，但是向往伟大！
+- 喜欢网络安全，主攻Web渗透测试，略懂开发。
+- 信奉六条“黑客伦理”，支持“开源运动”。
+- 喜欢诗，喜欢有感染力的文字，希望有朝一日我的代码可以像诗一样美！
+- 喜欢的超级英雄是蜘蛛侠，“能力越大，责任越大。”；喜欢的反派是小丑，“疯狂就像地心引力，需要做的只是轻轻一推。”
 
 <h2>🏆 Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
 
 <!-- align="center" -->
-<h2>🧐渗透测试工具<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<h2>🧐渗透测试框架<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
 <p>
         <a href="https://www.kali.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/kali-linux.svg" alt="kali-linux" height="40"/></a>
 	<a href="https://www.postman.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Postman.svg" alt="Postman" height="40"/></a>
@@ -108,7 +111,7 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0day404&theme=merko&custom_title=Sage's%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/0day404)
 
 
-<h2>Wakatime 分析<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2>Codetime 分析<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
 <a href="https://wakatime.com/@69043ef2-1c3f-4cde-8623-a368de215d55"><img src="https://wakatime.com/badge/user/69043ef2-1c3f-4cde-8623-a368de215d55.svg" alt="Total time coded since Jun 24 2023" /></a>
 <p align="">
