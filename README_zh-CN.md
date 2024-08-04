@@ -15,13 +15,13 @@
 
 [English](./README.md) | [简体中文](./README_zh-CN.md) 
 
-# 👋 关于我<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- 你好,我是 Sage (◍•ᴗ•◍) ！
+# 👋 请关注我！<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+- 你好,我是 Sage (◍•ᴗ•◍)！
 - 一个普通人。永远怀学徒之心，但是向往伟大！
 - 喜欢网络安全，主攻Web渗透测试，略懂开发。
 - 信奉六条“黑客伦理”，支持“开源运动”。
 - 喜欢诗，喜欢有感染力的文字，希望有朝一日我的代码可以像诗一样美！
-- 喜欢的超级英雄是蜘蛛侠，“能力越大，责任越大。”；喜欢的反派是小丑，“疯狂就像地心引力，需要做的只是轻轻一推。”
+- 喜欢的超级英雄是蜘蛛侠，“能力越大，责任越大。”；喜欢的反派是小丑，“你看，疯狂就像地心引力，需要做的只是轻轻一推。”他们都充满魅力！
 
 <h2>🏆 Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
