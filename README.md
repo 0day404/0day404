@@ -1,11 +1,15 @@
-
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/>
+</a>
   
+[English](./README.md) | [简体中文](./README_zh-CN.md) 
+
 
 <a href="#">
   <img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
 </a>
 
-[English](./README.md) | [简体中文](./README_zh-CN.md) 
+
 <!--
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/>
@@ -35,8 +39,7 @@
 - I love poems, I love infectious words, and I hope my code will be as beautiful as poems someday!
 - My favorite superhero is **<font color="#03A9F4">{Spider-Man}</font>**, "With great power, there must also come great responsibility." Favorite villain is **<font color="#03A9F4">{The Joker}</font>**, "You see, madness, as you know, is like gravity. All it takes is a little push!"They're all full of charm.
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Progress+Every+Day;Worry+Away;Peace+And+Joy;Family+Health;Happiness+Is+Important;"/>
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/></a>
+
 
 <h2>🏆  Github Status Diagram <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
