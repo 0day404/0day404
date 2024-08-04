@@ -9,12 +9,12 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </div>
 
-[简体中文](./README.md) | [English](./README_en.md) 
+[English](./README.md) | [简体中文](./README_zh-CN.md) 
 
 # 👋 关于我<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- 你好, 我是 Sage 
-- 普通软件工程本科生，喜欢网络安全. 
-- 开发和渗透测试两把抓.
+- 你好, 我是 Sage!
+- 普通软件工程本科生，喜欢网络安全。
+- 开发和渗透测试两把抓。
 
 <h2>🏆 Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
