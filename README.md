@@ -1,5 +1,5 @@
 
-<img width=100% src="./img/header.png"/>
+<img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步+烦恼走开;平安喜乐+家人安康;开心重要;"/>
 <div> 
   <p align="center">
