@@ -23,8 +23,6 @@
 - I love poems, I love infectious words, and I hope my code will be as beautiful as poems someday!
 - My favorite superhero is Spider-Man, "With great power, there must also come great responsibility." Favorite villain is The Joker, "You see, madness, as you know, is like gravity. All it takes is a little push!"
 
-Translated with DeepL.com (free version)
-
 <h2>🏆  Github Status Diagram <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
