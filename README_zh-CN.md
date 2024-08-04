@@ -52,8 +52,8 @@
        <a href="https://www.mysql.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/> </a> 
        <a href="https://www.mongodb.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30"/> </a> 
        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="30"/> </a>
+	<a href="https://redis.io" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/redis/redis-original-wordmark.svg" alt="redis" height="30"/> </a> 
        <a href="https://cloudflare.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare" height="30"/> </a>
-       <a href="https://redis.io" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/redis/redis-original-wordmark.svg" alt="redis" height="30"/> </a> 
        <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="30"/> </a>
  </p>
 
