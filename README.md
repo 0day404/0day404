@@ -15,7 +15,7 @@
 
 [English](./README.md) | [简体中文](./README_zh-CN.md) 
 
-# 👋 Please follow me !<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+# 👋 Please Follow Me !<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 - Hello, this is Sage (◍-ᴗ-◍)!
 - An ordinary man. Forever harbouring the heart of an apprentice, but aspiring to greatness!
 - Loves network security, focusing on web penetration testing, with a slight understanding of development.
@@ -28,7 +28,7 @@
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
 
 <!-- align="center" -->
-<h2>🧐Penetration test tool<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<h2>🧐Penetration Test Tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
 <p>
 	<a href="https://www.kali.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/kali-linux.svg" alt="kali-linux" height="40"/></a>
 	<a href="https://www.postman.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Postman.svg" alt="Postman" height="40"/></a>
@@ -39,7 +39,7 @@
 	<a href="https://www.metasploit.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/metasploit.svg" alt="Metasploit" height="40"/></a>
 </p>
 
-<h2>🔧 Language and tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<h2>🔧 Language And Tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
   <p >
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" alt="" height="40"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
