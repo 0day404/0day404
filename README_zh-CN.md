@@ -1,7 +1,10 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/></a>
+  
+[English](./README.md) | [简体中文](./README_zh-CN.md) 
+
+<a href="#">
   <img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
-  <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步+烦恼走开;平安喜乐+家人安康;开心重要;"/>
 </a>
 
 <!--
@@ -11,22 +14,23 @@
   </p>
 </div>
 -->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-[English](./README.md) | [简体中文](./README_zh-CN.md) 
 
+
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+ 
 # 👋 请关注我！<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- 你好,我是 Sage (◍•ᴗ•◍)！
-- 一个普通人。永远怀学徒之心，但是向往伟大！
-- 喜欢网络安全，主攻Web渗透测试，略懂开发。
-- 信奉六条“黑客伦理”，支持“开源运动”。
-- 喜欢诗，喜欢有感染力的文字，希望有朝一日我的代码可以像诗一样美！
-- 喜欢的超级英雄是蜘蛛侠，“能力越大，责任越大。”；喜欢的反派是小丑，“你看，疯狂就像地心引力，需要做的只是轻轻一推。”他们都充满魅力！
+- 大家好，我是**<font color="#03A9F4">{Sage（◍-ᴗ-◍）</font>**！一个平凡的人。
+- 永远怀学徒之心，但是向往伟大。
+- 热爱网络安全，专注于Web渗透测试，对开发略知一二。
+- 信奉六大**<font color="#03A9F4">“黑客道德”</font>**，支持**<font color="#03A9F4">“开源运动”</font>**。
+- 喜欢诗歌，喜欢有感染力的文字，希望有一天我的代码也能像诗歌一样优美！
+- 我最喜欢的超级英雄是**<font color="#03A9F4">{蜘蛛侠</font>**，“能力越大，责任越大。”最喜欢的反派是**<font color="#03A9F4">{小丑}**，“你看，疯狂就像引力，只需要轻轻一推！”他们都魅力十足。
 
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步+烦恼走开;平安喜乐+家人安康;开心重要;"/>
 <h2>🏆 Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
-
 <!-- align="center" -->
 <h2>🧐渗透测试框架<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
 <p>
