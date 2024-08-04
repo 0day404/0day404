@@ -1,6 +1,11 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80c8f8&height=120&section=header"/>
+  <img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
+  <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步+烦恼走开;平安喜乐+家人安康;开心重要;"/>
+</a>
 
-<img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
-<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步+烦恼走开;平安喜乐+家人安康;开心重要;"/>
+
+
 <div> 
   <p align="center">
    <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/linkedin.svg">
