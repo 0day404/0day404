@@ -3,13 +3,15 @@
   <img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
   <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Progress+Every+Day;Worry+Away;Peace+And+Joy;Family+Health;Happiness+Is+Important;"/>
 </a>
-
+<!--
 <div> 
   <p align="center">
    <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/linkedin.svg">
   </p>
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </div>
+-->
+
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 [English](./README.md) | [简体中文](./README_zh-CN.md) 
 
