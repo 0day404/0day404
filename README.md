@@ -64,7 +64,7 @@
 	<a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/>  </a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" alt="" height="40"/>  </a>
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" alt="linux" height="30"/> </a>
-	<a href="" target="_blank"> <img src=".https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/ubuntu.svg" alt="Ubuntu" height="40"/>  </a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/ubuntu.svg" alt="Ubuntu" height="40"/>  </a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/centos/centos-original.svg" alt="Centos" height="40"/><a href="" target="_blank"> <img src="" alt="" height="40"/></a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Docker.svg" alt="Docker" height="40"/></a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/mobaxterm.svg" alt="mobaxterm" height="40"/></a>
