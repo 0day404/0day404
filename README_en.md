@@ -34,14 +34,14 @@
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" alt="" height="30"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/css3/css3-original.svg" alt="" height="30"/>
-      <a href="https://www.nginx.com" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="30"/> </a>
+      <a href="https://www.nginx.com" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="" height="30"/>
-      <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/go/go-original.svg" alt="" height="30"/>
-      <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/java/java-original.svg" alt="" height="30"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/c/c-original.svg" alt="" height="30"/>
+      <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/java/java-original.svg" alt="" height="30"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/python/python-original.svg" alt="" height="30"/> 
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/php/php-original.svg" alt="" height="30"/>
+      <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/go/go-original.svg" alt="" height="30"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/git/git-original.svg" alt="" height="30"/></a>
      
  </p>
