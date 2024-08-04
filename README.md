@@ -59,7 +59,7 @@
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/centos/centos-original.svg" alt="" height="40"/><a href="" target="_blank"> <img src="" alt="" height="40"/></a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Docker.svg" alt="" height="40"/></a>
 	<a href="" target="_blank"> <img src="./img/mobaxterm.svg" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="./img/VMware.svg" alt="" height="50"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/VMware.svg" alt="" height="50"/></a>
 	<a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" height="40"/> </a>
 	<a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/>  </a>
 	<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/>  </a>
