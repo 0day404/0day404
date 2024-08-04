@@ -15,8 +15,8 @@
 
 [English](./README.md) | [简体中文](./README_zh-CN.md) 
 
-# 👋 About me<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- Hello, this is Sage (◍-ᴗ-◍), Please follow me !
+# 👋 Please follow me !<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+- Hello, this is Sage (◍-ᴗ-◍)!
 - An ordinary man. Forever harbouring the heart of an apprentice, but aspiring to greatness!
 - Loves network security, focusing on web penetration testing, with a slight understanding of development.
 - Believes in six "hacker ethics" and supports the "open source movement".
