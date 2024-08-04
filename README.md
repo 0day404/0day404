@@ -16,8 +16,8 @@
 [English](./README.md) | [简体中文](./README_zh-CN.md) 
 
 # 👋 About me<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- Hi, I'm Sage (◍-ᴗ-◍)!
-- A commoner. I'm an ordinary guy, always an apprentice, but aspiring to greatness!
+- Hello, this is Sage (◍-ᴗ-◍)!
+- An ordinary man. Forever harbouring the heart of an apprentice, but aspiring to greatness!
 - I love network security, specialize in web penetration testing, and know a little bit about development.
 - Loves network security, specializes in web penetration testing, knows a little bit about development. Believes in the six "hacker ethics", supports the "open source movement".
 - I love poems, I love infectious words, and I hope my code will be as beautiful as poems someday!
