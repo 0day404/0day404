@@ -43,10 +43,15 @@
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/go/go-original.svg" alt="" height="30"/>
       <a href="https://git-scm.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/git/git-original.svg" alt="" height="30"/></a>
         <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="30"/> </a> -->
-      <a href="https://nodejs.org" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> </a> 
-      <a href="https://www.nginx.com" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height=30"/> </a> 
+      <a href="https://www.nginx.com" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nginx/nginx-original.svg" alt="nginx" height="30"/> </a>
       <!--   <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="" height="30"/> -->
-      <a href="https://www.mysql.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a> 
+       <a href="https://www.mysql.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/> </a> 
+       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30"/> </a> 
+       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="30"/> </a>
+	<a href="https://redis.io" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/redis/redis-original-wordmark.svg" alt="redis" height="30"/> </a> 
+       <a href="https://cloudflare.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare" height="30"/> </a>
+       <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="30"/> </a>
  </p>
 
 
@@ -58,11 +63,12 @@
 	<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/>  </a>
 	<a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/>  </a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" alt="" height="40"/>  </a>
-	<a href="" target="_blank"> <img src=".https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/ubuntu.svg" alt="" height="40"/>  </a>
-	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/centos/centos-original.svg" alt="" height="40"/><a href="" target="_blank"> <img src="" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Docker.svg" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/mobaxterm.svg" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/VMware.svg" alt="" height="50"/></a>
+	<a href="https://www.linux.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" alt="linux" height="30"/> </a>
+	<a href="" target="_blank"> <img src=".https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/ubuntu.svg" alt="Ubuntu" height="40"/>  </a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/centos/centos-original.svg" alt="Centos" height="40"/><a href="" target="_blank"> <img src="" alt="" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Docker.svg" alt="Docker" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/mobaxterm.svg" alt="mobaxterm" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/VMware.svg" alt="Vmare" height="50"/></a>
 	<a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" height="40"/> </a>
 	<a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/>  </a>
 	<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/>  </a>
