@@ -14,7 +14,7 @@
 [English](./README.md) | [简体中文](./README_zh-CN.md) 
 
 # 👋 About me<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- Hello, this is Sage! 
+- Hello, this is Sage!(◍•ᴗ•◍) 
 - General software engineering undergraduate with a penchant for cybersecurity.
 - Both development and penetration test.
 
