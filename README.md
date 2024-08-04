@@ -34,7 +34,7 @@
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" alt="" height="30"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/css3/css3-original.svg" alt="" height="30"/>
-      <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a>
+      <a href="https://www.nginx.com" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="30"/> </a>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="" height="30"/>
       <a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/go/go-original.svg" alt="" height="30"/>
@@ -58,7 +58,7 @@
 	<a href="" target="_blank"> <img src=".https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/ubuntu.svg" alt="" height="40"/>  </a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/centos/centos-original.svg" alt="" height="40"/><a href="" target="_blank"> <img src="" alt="" height="40"/></a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Docker.svg" alt="" height="40"/></a>
-	<a href="" target="_blank"> <img src="./img/mobaxterm.svg" alt="" height="40"/></a>
+	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/mobaxterm.svg" alt="" height="40"/></a>
 	<a href="" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/VMware.svg" alt="" height="50"/></a>
 	<a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" height="40"/> </a>
 	<a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/>  </a>
