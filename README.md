@@ -12,11 +12,11 @@
 [简体中文](./README.md) | [English](./README_en.md) 
 
 # 👋 关于我<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- 你好, 我是 Sage 🏆
-- 普通软件工程本科生，喜欢网络安全.📋 
-- 开发和渗透测试两把抓.👊
+- 你好, 我是 Sage 
+- 普通软件工程本科生，喜欢网络安全. 
+- 开发和渗透测试两把抓.
 
-<h2>Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2>🏆 Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
 
@@ -65,7 +65,7 @@
 	<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/>  </a>
         </p>
 	
-<h2>  浏览量 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<h2> 📋 浏览量 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
   
 本部分的访问者统计从 2024 年 7 月 30 日开始
 
@@ -73,7 +73,7 @@
 </br>
 
 
-  <h2> 常用语言分布图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+  <h2>👊 常用语言分布图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day404&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 </p>
@@ -86,7 +86,7 @@
 
 
 
-<h2>GitHub 活动<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2> GitHub 活动<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
   <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=0day404&theme=onedark&column=-1&margin-w=15" />
 </p>
