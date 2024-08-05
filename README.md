@@ -32,30 +32,23 @@
 
 # 👋 Please Follow Me !<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
-- Hello, this is **<font color="#03A9F4">{SAGE}</font>**(◍-ᴗ-◍) !
+- Hello, this is **<font color="#03A9F4">Sage</font>** (◍-ᴗ-◍) !
 - An ordinary man.Forever harbouring the heart of an apprentice, but aspiring to greatness!
 - Loves network security, focusing on web penetration testing, with a slight understanding of development.
 - Believes in six **<font color="#03A9F4">"hacker ethics"</font>** and supports the **<font color="#03A9F4">"open source movement"</font>**.
-- I love poems, I love infectious words, and I hope my code will be as beautiful as poems someday!
+- I love poems and infectious words, and I hope my code will be as beautiful as poems someday!
+ <!--
 - My favorite superhero is **<font color="#03A9F4">{Spider-Man}</font>**, "With great power, there must also come great responsibility." Favorite villain is **<font color="#03A9F4">{The Joker}</font>**, "You see, madness, as you know, is like gravity. All it takes is a little push!"They're all full of charm.
+-->
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=Progress+Every+Day;Worry+Away;Peace+And+Joy;Family+Health;Happiness+Is+Important;"/>
 
 
-<h2>🏆  Github Status Diagram <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2>📋  Github Status Diagram <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
  
 
-<h2>🧐Penetration Test Tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
-<p>
-	<a href="https://www.kali.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/kali-linux.svg" alt="kali-linux" height="40"/></a>
-	<a href="https://www.postman.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Postman.svg" alt="Postman" height="40"/></a>
-	<a href="https://www.wireshark.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/wireshark.svg" alt="wireshark" height="40"/></a>
-	<a href="https://portswigger.net/burp" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Burp%20Suite%20Professional.svg" alt="" height="40"/></a>
-	<a href="https://yaklang.io/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Yakit.svg" alt="Yakit" height="40"/></a>
-	<a href="https://www.cobaltstrike.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/CobaltStrike.svg" alt="CobaltStrike" height="40"/></a>
-	<a href="https://www.metasploit.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/metasploit.svg" alt="Metasploit" height="40"/></a>
-</p>
+
 
 <h2>🔧 Language And Tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
   <p >
@@ -99,8 +92,58 @@
 	<a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/>  </a>
 	<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/>  </a>
  </p>
+
+ <h2>🥇Penetration Test Tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<p>
+	<a href="https://www.kali.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/kali-linux.svg" alt="kali-linux" height="40"/></a>
+	<a href="https://www.postman.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Postman.svg" alt="Postman" height="40"/></a>
+	<a href="https://www.wireshark.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/wireshark.svg" alt="wireshark" height="40"/></a>
+	<a href="https://portswigger.net/burp" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Burp%20Suite%20Professional.svg" alt="" height="40"/></a>
+	<a href="https://yaklang.io/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Yakit.svg" alt="Yakit" height="40"/></a>
+	<a href="https://www.cobaltstrike.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/CobaltStrike.svg" alt="CobaltStrike" height="40"/></a>
+	<a href="https://www.metasploit.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/metasploit.svg" alt="Metasploit" height="40"/></a>
+</p>
+
+ <h2>💬 Connect with me</h2>
+<p align="left">
+     <a href="https://t.me/InertSin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />
+    </a>
+     <a href="https://www.youtube.com/@InertSin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100095060580213" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />
+    </a>
+    <a href="www.linkedin.com/in/inertsin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" />
+    </a>
+    <a href="https://discord.com/channels/@inertsin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="discord" height="40" />
+    </a>
+    <a href="https://www.instagram.com/inertsin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" />
+    </a>
+	<a href="https://github.com/0day404" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
+    </a>
+    <a href="https://x.com/InertSin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />
+    </a>
+     <!--
+     <a href="https://www.tiktok.com/" target="blank">
+        <img src="https://www.tiktok.com/favicon.ico" alt="tiktok" height="40" width="45" />
+    </a>
+    <a href=" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" height="40" />
+    </a>
+	<a href="https://medium.com/" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="medium" height="40" />
+    </a>
+	-->
+</p>
 	
-<h2> 📋  Page View <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<h2>👀 Page views <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
   
 Visitor statistics for this section begin on July 30, 2024
 
@@ -108,7 +151,7 @@ Visitor statistics for this section begin on July 30, 2024
 </br>
 
 
-  <h2> 👊 Map of common language distribution <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+  <h2> 🙌 Github Common Language <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day404&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 </p>
@@ -116,7 +159,7 @@ Visitor statistics for this section begin on July 30, 2024
 
 
 
-<h2>GitHub Activity<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2>🏆 GitHub Activity<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
   <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=0day404&theme=onedark&column=-1&margin-w=15" />
 </p>
@@ -124,7 +167,7 @@ Visitor statistics for this section begin on July 30, 2024
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0day404&theme=merko&custom_title=Sage's%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/0day404)
 
 
-<h2>Codetime Analysis<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2>🕹️ Codetime Analysis<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
 <a href="https://wakatime.com/@69043ef2-1c3f-4cde-8623-a368de215d55"><img src="https://wakatime.com/badge/user/69043ef2-1c3f-4cde-8623-a368de215d55.svg" alt="Total time coded since Jun 24 2023" /></a>
 <p align="">
