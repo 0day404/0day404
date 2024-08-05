@@ -30,7 +30,7 @@
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <!-- align="center" -->
 
-# 👋 Please Follow Me !<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+# 👋 Please Follow Me <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
 - Hello, this is **<font color="#03A9F4">Sage</font>** (◍-ᴗ-◍) !
 - An ordinary man.Forever harbouring the heart of an apprentice, but aspiring to greatness!
@@ -93,7 +93,7 @@
 	<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/>  </a>
  </p>
 
- <h2>🥇Penetration Test Tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+ <h2>🥇Penetration test tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
 <p>
 	<a href="https://www.kali.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/kali-linux.svg" alt="kali-linux" height="40"/></a>
 	<a href="https://www.postman.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Postman.svg" alt="Postman" height="40"/></a>
@@ -104,7 +104,7 @@
 	<a href="https://www.metasploit.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/metasploit.svg" alt="Metasploit" height="40"/></a>
 </p>
 
- <h2>💬 Connect with me</h2>
+ <h2>💬 Connect With Me</h2>
 <p align="left">
      <a href="https://t.me/InertSin" target="blank">
         <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />
@@ -143,7 +143,7 @@
 	-->
 </p>
 	
-<h2>👀 Page views <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<h2>👀 Page Views <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
   
 Visitor statistics for this section begin on July 30, 2024
 
@@ -151,7 +151,7 @@ Visitor statistics for this section begin on July 30, 2024
 </br>
 
 
-  <h2> 🙌 Github Common Language <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+  <h2> 🙌 Github Vommon Language <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day404&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 </p>
