@@ -19,15 +19,57 @@
 
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
  
-# 👋 请关注我！<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- 大家好，我是**<font color="#03A9F4">{Sage（◍-ᴗ-◍）</font>**！一个平凡的人。
-- 永远怀学徒之心，但是向往伟大。
+## 👋 请关注我！<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+- 大家好，我是 **<font color="#03A9F4">Sage</font>** （◍-ᴗ-◍）！
+- 一个平凡的人。永远怀学徒之心，但是向往伟大。
 - 热爱网络安全，专注于Web渗透测试，对开发略知一二。
-- 信奉六大**<font color="#03A9F4">“黑客道德”</font>**，支持**<font color="#03A9F4">“开源运动”</font>**。
+- 信奉六大 **<font color="#03A9F4">“黑客道德”</font>**，支持 **<font color="#03A9F4">“开源运动”</font>** 。
 - 喜欢诗歌，喜欢有感染力的文字，希望有一天我的代码也能像诗歌一样优美！
-- 我最喜欢的超级英雄是**<font color="#03A9F4">{蜘蛛侠</font>**，“能力越大，责任越大。”最喜欢的反派是**<font color="#03A9F4">{小丑}**，“你看，疯狂就像引力，只需要轻轻一推！”他们都魅力十足。
+<!-- 
+- 我最喜欢的超级英雄是**<font color="#03A9F4">{蜘蛛侠</font>**，“能力越大，责任越大。”最喜欢的反派是**<font color="#03A9F4">{小丑}**，“你看，疯狂就像引力，只需要轻轻一推！”他们都魅力十足。 
+-->
 
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步+烦恼走开;平安喜乐+家人安康;开心重要;"/>
+
+<h2>💬 与我联系</h2>
+<p align="left">
+    <a href="https://github.com/0day404" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
+    </a>
+    <a href="https://x.com/InertSin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />
+    </a>
+     <a href="https://t.me/InertSin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />
+    </a>
+     <a href="https://www.youtube.com/@InertSin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100095060580213" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />
+    </a>
+    <a href="www.linkedin.com/in/inertsin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" />
+    </a>
+    <a href="https://discord.com/channels/@inertsin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="discord" height="40" />
+    </a>
+    <a href="https://www.instagram.com/inertsin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" />
+    </a>
+     <!--
+     <a href="https://www.tiktok.com/" target="blank">
+        <img src="https://www.tiktok.com/favicon.ico" alt="tiktok" height="40" width="45" />
+    </a>
+    <a href=" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" height="40" />
+    </a>
+	<a href="https://medium.com/" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="medium" height="40" />
+    </a>
+	-->
+</p>
+
 <h2>🏆 Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
