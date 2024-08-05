@@ -31,59 +31,13 @@
 
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步+烦恼走开;平安喜乐+家人安康;开心重要;"/>
 
-<h2>💬 与我联系</h2>
-<p align="left">
-    <a href="https://github.com/0day404" target="blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
-    </a>
-    <a href="https://x.com/InertSin" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />
-    </a>
-     <a href="https://t.me/InertSin" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />
-    </a>
-     <a href="https://www.youtube.com/@InertSin" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100095060580213" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />
-    </a>
-    <a href="www.linkedin.com/in/inertsin" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" />
-    </a>
-    <a href="https://discord.com/channels/@inertsin" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="discord" height="40" />
-    </a>
-    <a href="https://www.instagram.com/inertsin" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" />
-    </a>
-     <!--
-     <a href="https://www.tiktok.com/" target="blank">
-        <img src="https://www.tiktok.com/favicon.ico" alt="tiktok" height="40" width="45" />
-    </a>
-    <a href=" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" height="40" />
-    </a>
-	<a href="https://medium.com/" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="medium" height="40" />
-    </a>
-	-->
-</p>
 
-<h2>🏆 Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+
+<h2>📋 Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
 <!-- align="center" -->
-<h2>🧐渗透测试框架<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
-<p>
-        <a href="https://www.kali.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/kali-linux.svg" alt="kali-linux" height="40"/></a>
-	<a href="https://www.postman.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Postman.svg" alt="Postman" height="40"/></a>
-	<a href="https://www.wireshark.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/wireshark.svg" alt="wireshark" height="40"/></a>
-	<a href="https://portswigger.net/burp" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Burp%20Suite%20Professional.svg" alt="" height="40"/></a>
-	<a href="https://yaklang.io/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Yakit.svg" alt="Yakit" height="40"/></a>
-	<a href="https://www.cobaltstrike.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/CobaltStrike.svg" alt="CobaltStrike" height="40"/></a>
-	<a href="https://www.metasploit.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/metasploit.svg" alt="Metasploit" height="40"/></a>
-</p>
+
 
 <h2>🔧 语言和工具<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
   <p >
@@ -127,8 +81,58 @@
 	<a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/>  </a>
 	<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/>  </a>
 </p>
+
+<h2>🥇 渗透测试工具<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<p>
+        <a href="https://www.kali.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/kali-linux.svg" alt="kali-linux" height="40"/></a>
+	<a href="https://www.postman.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Postman.svg" alt="Postman" height="40"/></a>
+	<a href="https://www.wireshark.org/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/wireshark.svg" alt="wireshark" height="40"/></a>
+	<a href="https://portswigger.net/burp" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Burp%20Suite%20Professional.svg" alt="" height="40"/></a>
+	<a href="https://yaklang.io/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/Yakit.svg" alt="Yakit" height="40"/></a>
+	<a href="https://www.cobaltstrike.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/CobaltStrike.svg" alt="CobaltStrike" height="40"/></a>
+	<a href="https://www.metasploit.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/metasploit.svg" alt="Metasploit" height="40"/></a>
+</p>
+
+<h2>💬 与我联系</h2>
+<p align="left">
+     <a href="https://t.me/InertSin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />
+    </a>
+     <a href="https://www.youtube.com/@InertSin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100095060580213" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />
+    </a>
+    <a href="www.linkedin.com/in/inertsin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" />
+    </a>
+    <a href="https://discord.com/channels/@inertsin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="discord" height="40" />
+    </a>
+    <a href="https://www.instagram.com/inertsin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" />
+    </a>
+         <a href="https://github.com/0day404" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
+    </a>
+    <a href="https://x.com/InertSin" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />
+    </a>
+     <!--
+     <a href="https://www.tiktok.com/" target="blank">
+        <img src="https://www.tiktok.com/favicon.ico" alt="tiktok" height="40" width="45" />
+    </a>
+    <a href=" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" height="40" />
+    </a>
+	<a href="https://medium.com/" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="medium" height="40" />
+    </a>
+	-->
+</p>
 	
-<h2> 📋 浏览量 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
+<h2> 👀 浏览量 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
   
 本部分的访问者统计从 2024 年 7 月 30 日开始
 
@@ -136,7 +140,7 @@
 </br>
 
 
-  <h2>👊 常用语言分布图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+  <h2>🙌 Github常用语言 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day404&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 </p>
@@ -146,10 +150,7 @@
 
 
 
-
-
-
-<h2> GitHub 活动<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2>🏆 GitHub 活动<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
   <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=0day404&theme=onedark&column=-1&margin-w=15" />
 </p>
@@ -157,7 +158,7 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0day404&theme=merko&custom_title=Sage's%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/0day404)
 
 
-<h2>Codetime 分析<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+<h2>🕹️ Codetime 分析<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
 <a href="https://wakatime.com/@69043ef2-1c3f-4cde-8623-a368de215d55"><img src="https://wakatime.com/badge/user/69043ef2-1c3f-4cde-8623-a368de215d55.svg" alt="Total time coded since Jun 24 2023" /></a>
 <p align="">
