@@ -106,28 +106,28 @@
 
  <h2>💬 Connect With Me</h2>
 <p align="left">
-     <a href="https://t.me/InertSin" target="blank">
+     <a href="https://t.me/LaughWildly" target="blank">
         <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />
     </a>
-     <a href="https://www.youtube.com/@InertSin" target="blank">
+     <a href="https://www.youtube.com/@Greed-Sin" target="blank">
         <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=100095060580213" target="blank">
         <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />
     </a>
-    <a href="www.linkedin.com/in/inertsin" target="blank">
+    <a href="https://www.linkedin.com/in/inertgas" target="blank">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" />
     </a>
-    <a href="https://discord.com/channels/@inertsin" target="blank">
+    <a href="https://discord.com/channels/@LaughWildly" target="blank">
         <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="discord" height="40" />
     </a>
-    <a href="https://www.instagram.com/inertsin" target="blank">
+    <a href="https://www.instagram.com/nolovenosin" target="blank">
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" />
     </a>
 	<a href="https://github.com/0day404" target="blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
     </a>
-    <a href="https://x.com/InertSin" target="blank">
+    <a href="https://x.com/0day404" target="blank">
         <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />
     </a>
      <!--
