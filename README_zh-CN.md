@@ -155,7 +155,7 @@
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=0day404&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0day404&theme=merko&custom_title=Sage's%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/0day404)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0day404&theme=merko&custom_title=Agony's%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/0day404)
 
 
 <h2>🕹️ Codetime 分析<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
