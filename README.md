@@ -151,7 +151,7 @@ Visitor statistics for this section begin on July 30, 2024
 </br>
 
 
-  <h2> 🙌 Github Common Language <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
+  <h2> 🙌 Github Most Used Languages<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day404&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
 </p>
