@@ -7,27 +7,14 @@
   <img width=100% src="https://s2.loli.net/2024/08/04/PfVgE3ocb5T7HIK.webp"/>
 </a>
 
-<!--
-<div> 
-  <p align="center">
-   <a href="https://www.linkedin.com/in/kaychenvip"><img height="35" width="140" title="www.linkedin.com/in/kaychenvip/" src="https://jsdelivr.b-cdn.net/gh/0day404/0day404@main/img/linkedin.svg">
-  </p>
-</div>
--->
-
-
-
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
  
-## 👋 请关注我！<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-- 大家好，我是 **<font color="#03A9F4">Agony</font>** （◍-ᴗ-◍）！
-- 一个平凡的人。永远怀学徒之心，但是向往伟大。
-- 热爱网络安全，专注于Web渗透测试，对开发略知一二。
-- 信奉六大 **<font color="#03A9F4">“黑客道德”</font>**，支持 **<font color="#03A9F4">“开源运动”</font>** 。
-- 喜欢诗歌，喜欢有感染力的文字，希望有一天我的代码也能像诗歌一样优美！
-<!-- 
-- 我最喜欢的超级英雄是**<font color="#03A9F4">{蜘蛛侠</font>**，“能力越大，责任越大。”最喜欢的反派是**<font color="#03A9F4">{小丑}**，“你看，疯狂就像引力，只需要轻轻一推！”他们都魅力十足。 
--->
+## 👋 你好！<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+- 我是 **<font color="#03A9F4">ODay404>）fontn** （◍-ᴗ-◍）！
+- 一个平凡的人。永远怀着学徒之心，但是向往伟大。
+- 热爱网络安全，专注于Web渗透测试，熟悉小程序和安卓APP测试;熟悉Java反序列化和PHP反序列化;Java、PHP以及Web3 Solidity的代码审计入门级学者。
+- 在学：权限提升; 免杀对抗；内网渗透;红队APT！
+<!--- 闲暇喜欢：听音乐,R&B是我的首选；	有意思的小说不会放过；特殊摄影喜欢假面骑士和奥特曼、动漫打发时间也不错；游戏和朋友一起才玩的下去；嘿；如果你看到这段文字，说明我们真的很有缘分；不妨交个朋友好吗！ -->
 
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=80c8f8&size=35&center=true&vCenter=true&width=1000&lines=每天进步+烦恼走开;平安喜乐+家人安康;开心重要;"/>
 
@@ -36,7 +23,7 @@
 <h2>📋 Github 状态图 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
  ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
-<!-- align="center" -->
+
 
 
 <h2>🔧 语言和工具<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2>
@@ -57,8 +44,8 @@
        <a href="https://www.mysql.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a> 
        <a href="https://www.mongodb.com/" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> </a> 
        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="40"/> </a>
-	<a href="https://redis.io" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/redis/redis-original-wordmark.svg" alt="redis" height="40"/> </a> 
-       <a href="https://cloudflare.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare" height="40"/> </a>
+	   <!-- <a href="https://redis.io" target="_blank"> <img src="https://jsdelivr.b-cdn.net/gh/devicons/devicon@master/icons/redis/redis-original-wordmark.svg" alt="redis" height="40"/> </a>  -->
+       <!-- <a href="https://cloudflare.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare" height="40"/> </a> -->
        <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="40"/> </a>
  </p>
 
@@ -98,7 +85,7 @@
      <a href="https://t.me/LaughWildly" target="blank">
         <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />
     </a>
-     <a href="https://www.youtube.com/@Greed-Sin" target="blank">
+     <!-- <a href="https://www.youtube.com/@Greed-Sin" target="blank">
         <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=100095060580213" target="blank">
@@ -112,7 +99,7 @@
     </a>
     <a href="https://www.instagram.com/nolovenosin" target="blank">
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" />
-    </a>
+    </a> -->
 	<a href="https://github.com/0day404" target="blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
     </a>
@@ -148,16 +135,9 @@
 
 
 
-
-
 <h2>🏆 GitHub 活动<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
-  <!-- <p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=0day404&theme=onedark&column=-1&margin-w=15" />
-</p> -->
-
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0day404&theme=merko&custom_title=Agony's%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/0day404)
-
 
 <h2>🕹️ Codetime 分析<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></h2> 
 
@@ -172,57 +152,4 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
 </a>
 
-<!-- 
-<details>
-  <summary><h2>浏览量 </h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></summary>
-  
-本部分的访问者统计从 2024 年 7 月 30 日开始
 
-![](https://count.getloli.com/get/@:kaychenvip?theme=moebooru-h)
-</br>
-
-</details>
-
-<details>
-  <summary><h2>常用语言分布图</h2> <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></summary>
-<p align="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day404&layout=compact" alt="Top Langs"style="width: 400px; height: 200px;">
-</p>
-</details>
-
-
-<details> 
-  <summary><h2>Github 状态图</h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></summary>
-
- ![](https://github-readme-stats.vercel.app/api?username=0day404\&show_icons=true\&theme=radical) 
-</details>
-
-
-
-<details>
-  <summary><h2>Wakatime 分析</h2> <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></summary>
-<p align="">
-    <a href="https://wakatime.com/@0day404">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0day404&layout=compact" alt="GLutton's wakatime stars">
-    </a>
-</p>
-</details>
-
-
-<details>
-<summary><h2>GitHub 活动</h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /></summary>
-  <p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=0day404&theme=onedark&column=-1&margin-w=15" />
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0day404&theme=merko&custom_title=Sage's%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/0day404)
-</details>
-
-
-
-
-
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
-</a>
--->
