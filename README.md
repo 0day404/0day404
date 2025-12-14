@@ -12,9 +12,9 @@
 
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-# 👋 Please Follow Me <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+# 👋 Hello! <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
-- Hello, **<font color="#03A9F4">Chen</font>** (◍-ᴗ-◍) !
+- Hi, This is **<font color="#03A9F4">Chen</font>**  (◍-ᴗ-◍) !
 - An ordinary man.Forever harbouring the heart of an apprentice, but aspiring to greatness!
 - Passionate about network security, specializing in Web penetration testing, familiar with mini-program and Android APP testing;Familiar with Java deserialization and PHP deserialization;An entry-level scholar in code auditing for Java, PHP, and Web3 Solidity.
 - Learning: Privilege_Escalation;Anti AntiVirus;Internal Network Security;Red Team APT!
