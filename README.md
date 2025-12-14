@@ -158,13 +158,3 @@ Visitor statistics for this section begin on July 30, 2024
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
 </a>
 
-
-
-
-
-
-
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
-</a>
--->
